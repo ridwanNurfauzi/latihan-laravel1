@@ -17,10 +17,6 @@
         facere ab modi expedita ullam accusamus necessitatibus animi harum debitis odit eaque, dolorem nostrum maxime
         assumenda.
     </p>
-    <p>
-        {{ $isAuth }}
-        {{ true }}
-    </p>
 </body>
 
 </html>

@@ -9,9 +9,7 @@ class MyController extends Controller
 {
     //
     public function showAbout() {
-        return view('about', [
-            'isAuth' => (Auth::check())
-        ]);
+        return view('about');
     }
 
     public function showFormTarget() {
